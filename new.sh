@@ -28,17 +28,17 @@ echo $i" |"$cy"     INDONESIA DARK TERMUX ASSOCIATE"$i"         |"
 
 echo $i" |"$me"─────────────────────────────────────────────"$i"|"
 
-echo $i" |"$pu" AUTHOR :"$ku" RISKI DARMAWAN  [FR13ND8]"$i"          |"
+echo $i" |"$pu" AUTHOR :"$ku" Piyush raj  [LEGEND8]"$i"          |"
 
-echo $i" |"$pu" FACEBOOK :"$ku" Riski Darmawan"$i"                   |"
+echo $i" |"$pu" INSTAGRAM :"$ku"piyushraj6264"$i"                   |"
 
-echo $i" |"$pu" THANKS TO :"$cy"~ [MR.P3RC1L] [MR.S∆MAx] [MR.B]"$i"  |"
+echo $i" |"$pu" THANKS TO :"$cy"~ [Legend]"$i"  |"
 
-echo $i" |"$cy"            ~ [cyber] [%MR.S%] [AldykaPrygh]"$i" |"
 
-echo $i" |"$pu" Contack WhatsApp :"$ku" 085835787069"$i"             |"
 
-echo $i" |"$pu" Contack Gmail :"$ku" dermawan0858@gmail.com"$i"      |"
+echo $i" |"$pu" Contack WhatsApp :"$ku" 07033925555"$i"             |"
+
+echo $i" |"$pu" Contack Gmail :"$ku" rpiyush737@gmail.com"$i"      |"
 
 echo $i"["$bi"•"$i"]"$me"───────────────────────────────────────────"$i"["$bi"•"$i"]"
 
